@@ -5,7 +5,7 @@ ruby '2.5.8'
 
 gem 'rails', '~> 5.2.0'
 gem 'sqlite3'
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 4.3'
 gem 'rspec-rails'
 gem 'factory_bot_rails'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
